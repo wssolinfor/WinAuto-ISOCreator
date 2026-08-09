@@ -1,0 +1,23 @@
+https://wssolinfor.github.io/WinAuto-ISOCreator/files/oscdimg.exe
+	out=\bin\oscdimg.exe
+	
+https://wssolinfor.github.io/WinAuto-ISOCreator/files/7z.exe
+	out=\bin\7z.exe
+	
+https://wssolinfor.github.io/WinAuto-ISOCreator/files/7z.dll
+	out=\bin\7z.dll
+
+https://wssolinfor.github.io/WinAuto-ISOCreator/files/uharc.exe
+	out=\bin\uharc.exe
+
+https://wssolinfor.github.io/WinAuto-ISOCreator/files/OOBE-Creator-Wsinc.uha
+	out=\bin\OOBE-Creator-Wsinc.uha
+
+https://wssolinfor.github.io/WinAuto-ISOCreator/files/TestarISO.7z
+	out=\files\TestarISO.7z
+
+https://wssolinfor.github.io/WinAuto-ISOCreator/fwfiles/efisys.bin
+	out=\fwfiles\efisys.bin
+
+https://wssolinfor.github.io/WinAuto-ISOCreator/fwfiles/etfsboot.com
+	out=\fwfiles\etfsboot.com
