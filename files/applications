@@ -16,8 +16,8 @@ https://wssolinfor.github.io/WinAuto-ISOCreator/files/OOBE-Creator-Wsinc.uha
 https://wssolinfor.github.io/WinAuto-ISOCreator/files/TestarISO.7z
 	out=\files\TestarISO.7z
 
-https://wssolinfor.github.io/WinAuto-ISOCreator/fwfiles/efisys
-	out=\fwfiles\efisys.bin
+https://wssolinfor.github.io/WinAuto-ISOCreator/fwfiles/efisys.bin
+	out=\fwfiles\efisys
 
-https://wssolinfor.github.io/WinAuto-ISOCreator/fwfiles/etfsboot
-	out=\fwfiles\etfsboot.com
+https://wssolinfor.github.io/WinAuto-ISOCreator/fwfiles/etfsboot.com
+	out=\fwfiles\etfsboot
